@@ -47,5 +47,11 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+  <key>NMFClientId</key>
+  <string>4m02scbhry</string>
+  <key>io.flutter.embedded_views_preview</key>
+  <true/>
+  <key>NSAllowsArbitraryLoads</key>
+  <true/>
 </dict>
 </plist>

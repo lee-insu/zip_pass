@@ -40,7 +40,7 @@ class _ChipsState extends State<Chips> {
                       color: Color(0xFF686777),
                       fontSize: 14),
                 ),
-                backgroundColor: Color(0xFFF8F8FA),
+                backgroundColor: Colors.white,
               ),
             ],
           ),

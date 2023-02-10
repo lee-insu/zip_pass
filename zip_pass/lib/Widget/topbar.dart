@@ -14,13 +14,9 @@ class _TopBarState extends State<TopBar> {
         elevation: 0.4,
         toolbarHeight: 81,
         backgroundColor: Colors.white,
-        // How to place logos in left alignment and button icons in right alignment?
         title: Flexible(
           flex: 1,
-          child:
-              // i want insert left logo image, and right icon button
-              // How to place logos in left alignment and button icons in right alignment?
-              Row(
+          child: Row(
             children: <Widget>[
               Flexible(
                 flex: 1,
